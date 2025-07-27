@@ -133,16 +133,6 @@ Implémente la logique de calcul :
    -  Contraintes de prix d'achat respectées
    -  Conservation du montant total
 
-### Complexité
 
--  **Temporelle** : O(n×k) où n = nombre de tronçons, k = nombre d'itérations (≤ 10)
--  **Spatiale** : O(n)
 
-## Cas de Test
 
-### Test 1 : Cas d'exemple (Astre - Leroy Merlin)
-
--  **Commande** : 100€
--  **Tronçon 1** : Dourges → La Pommeraye (75%, non sous-traité)
--  **Tronçon 2** : La Pommeraye → Rezé (25%, sous-traité 36€)
--  **Résultat attendu** :
