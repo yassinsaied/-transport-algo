@@ -50,7 +50,7 @@ $troncon = new Troncon(
 
 ---
 
-## 🏗 Architecture du Projet
+## Architecture du Projet
 
 ```
 projet-repartition-transport/
